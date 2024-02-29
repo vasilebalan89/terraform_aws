@@ -1,0 +1,7 @@
+SSH to instance: i-07ff6e718b9e66406, Public IP: 18.185.95.209, Private IP: 10.0.1.100
+SSH to instance: i-026adb7c82cdb2448, Public IP: 18.197.154.169, Private IP: 10.0.1.9
+SSH to instance: i-098f81b0e24b81212	3.71.165.223	10.0.1.40, Public IP: 3.71.165.223, Private IP: 10.0.1.100
+Results:
+Relation 0: OK
+Relation 1: OK
+Relation 2: OK
